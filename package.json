@@ -4,7 +4,8 @@
   "description": "Mon premier POC pour les tests AUTO",
   "main": "index.js",
   "scripts": {
-    "toto": "cypress run --spec cypress/e2e/3-test-perso/testVisit.cy.js" 
+    "runTestFormation": "cypress run --spec cypress/e2e/3-test-perso/testVisit.cy.js", 
+    "openTestFormation": "cypress open cypress/e2e/3-test-perso/testVisit.cy.js" 
 
   },
   "author": "",
