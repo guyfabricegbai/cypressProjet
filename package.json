@@ -4,7 +4,8 @@
   "description": "Mon premier POC pour les tests AUTO",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "toto": "cypress run --spec cypress/e2e/3-test-perso/testVisit.cy.js" 
+
   },
   "author": "",
   "license": "ISC",
