@@ -1,1 +1,13 @@
 # captures d'image et vidéos
+cypress/screenshots/*
+cypress/videos/*
+
+#reports 
+mochawesome-report
+mochawesome-json
+
+#node_modules
+node_modules
+results
+
+.DS_STRORE
